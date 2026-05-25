@@ -1,0 +1,13 @@
+﻿[2026-05-25 12:57:22] Loading reference data.
+[2026-05-25 13:02:41] Loading reference data.
+[2026-05-25 13:06:06] Loading reference data.
+[2026-05-25 13:06:07] Fatal failure: System.Management.Automation.MethodInvocationException: "0"개의 인수가 있는 "ShowDialog"을(를) 호출하는 동안 예외가 발생했습니다. "숨겨진 창에서만 ShowDialog를 호출할 수 있습니다." ---> System.InvalidOperationException: 숨겨진 창에서만 ShowDialog를 호출할 수 있습니다.
+   위치: System.Windows.Window.ShowDialog()
+   위치: CallSite.Target(Closure , CallSite , Object )
+   --- 내부 예외 스택 추적의 끝 ---
+   위치: System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   위치: System.Management.Automation.Interpreter.ActionCallInstruction`2.Run(InterpretedFrame frame)
+   위치: System.Management.Automation.Interpreter.EnterTryCatchFinallyInstruction.Run(InterpretedFrame frame)
+   위치: System.Management.Automation.Interpreter.EnterTryCatchFinallyInstruction.Run(InterpretedFrame frame)
+[2026-05-25 13:07:22] Loading reference data.
+[2026-05-25 13:11:25] Loading reference data.

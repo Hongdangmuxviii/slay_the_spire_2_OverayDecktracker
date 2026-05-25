@@ -1,0 +1,112 @@
+[
+  {
+    "id": "doom",
+    "label": "\uc885\ub9d0",
+    "color": "#7c3aed",
+    "description": "\uc885\ub9d0 \ub204\uc801\uacfc \ud2b8\ub9ac\uac70 \uc2dc\ub108\uc9c0 \uc704\uc8fc",
+    "core": [
+      "CARD.BLIGHT_STRIKE",
+      "CARD.SCOURGE",
+      "CARD.DEATHBRINGER",
+      "CARD.NO_ESCAPE",
+      "CARD.END_OF_DAYS"
+    ],
+    "support": [
+      "CARD.NEGATIVE_PULSE",
+      "CARD.SHROUD",
+      "CARD.COUNTDOWN",
+      "CARD.DEATHS_DOOR",
+      "CARD.SLEIGHT_OF_FLESH",
+      "CARD.REAPER_FORM",
+      "CARD.PUTREFY"
+    ]
+  },
+  {
+    "id": "soul",
+    "label": "\uc601\ud63c",
+    "color": "#06b6d4",
+    "description": "\uc601\ud63c \uc0dd\uc131\uacfc \uc21c\ud658, \ucd9c\ubab0 \uc911\uc2ec \ub515",
+    "core": [
+      "CARD.CAPTURE_SPIRIT",
+      "CARD.HAUNT",
+      "CARD.WISP",
+      "CARD.SEVERANCE",
+      "CARD.DREDGE"
+    ],
+    "support": [
+      "CARD.GRAVE_WARDEN",
+      "CARD.REAVE",
+      "CARD.DIRGE",
+      "CARD.DEVOUR_LIFE",
+      "CARD.CALL_OF_THE_VOID",
+      "CARD.BORROWED_TIME",
+      "CARD.PARSE"
+    ]
+  },
+  {
+    "id": "summon",
+    "label": "\uace8\uace8\uc774",
+    "color": "#22c55e",
+    "description": "\uc18c\ud658\uacfc \uace8\uace8\uc774 \uacf5\uaca9 \uc911\uc2ec \ub515",
+    "core": [
+      "CARD.UNLEASH",
+      "CARD.BODYGUARD",
+      "CARD.POKE",
+      "CARD.RATTLE",
+      "CARD.CALCIFY",
+      "CARD.SQUEEZE"
+    ],
+    "support": [
+      "CARD.FLATTEN",
+      "CARD.SIC_EM",
+      "CARD.HIGH_FIVE",
+      "CARD.SPUR",
+      "CARD.NECRO_MASTERY",
+      "CARD.PROTECTOR"
+    ]
+  },
+  {
+    "id": "volatile",
+    "label": "\ud718\ubc1c\uc131",
+    "color": "#f59e0b",
+    "description": "\ud718\ubc1c\uc131 \uc0ac\uc6a9\uacfc \ubcf4\uc0c1 \uce74\ub4dc \uc7ac\ud65c\uc6a9",
+    "core": [
+      "CARD.DEFILE",
+      "CARD.FEAR",
+      "CARD.PAGESTORM",
+      "CARD.PULL_FROM_BELOW",
+      "CARD.BANSHEES_CRY"
+    ],
+    "support": [
+      "CARD.SCULPTING_STRIKE",
+      "CARD.VEILPIERCER",
+      "CARD.ENFEEBLING_TOUCH",
+      "CARD.PARSE",
+      "CARD.SPIRIT_OF_ASH",
+      "CARD.SEANCE",
+      "CARD.OBLIVION"
+    ]
+  },
+  {
+    "id": "bigmana",
+    "label": "\uace0\ucf54\uc2a4\ud2b8",
+    "color": "#ef4444",
+    "description": "\uc5f0\uba85\uacfc \ubcc0\ud615\uc73c\ub85c \uace0\ucf54\uc2a4\ud2b8\ub97c \uad74\ub9ac\ub294 \ub515",
+    "core": [
+      "CARD.BORROWED_TIME",
+      "CARD.TRANSFIGURE",
+      "CARD.DANSE_MACABRE",
+      "CARD.DIRGE",
+      "CARD.ERADICATE"
+    ],
+    "support": [
+      "CARD.BURY",
+      "CARD.BANSHEES_CRY",
+      "CARD.DEMESNE",
+      "CARD.END_OF_DAYS",
+      "CARD.DELAY",
+      "CARD.RIGHT_HAND_HAND",
+      "CARD.LETHALITY"
+    ]
+  }
+]

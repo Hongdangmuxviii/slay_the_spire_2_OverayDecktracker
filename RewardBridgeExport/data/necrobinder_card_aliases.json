@@ -1,0 +1,387 @@
+[
+  {
+    "id": "CARD.BLIGHT_STRIKE",
+    "match_status": "confirmed",
+    "name_ko": "\uc5ed\ubcd1 \ud0c0\uaca9",
+    "name_en": "Blight Strike",
+    "aliases": ["\uc5ed\ubcd1 \ud0c0\uaca9", "\uc5ed\ubcd1\ud0c0\uaca9", "Blight Strike", "blight strike", "BlightStrike", "blightstrike"]
+  },
+  {
+    "id": "CARD.WISP",
+    "match_status": "confirmed",
+    "name_ko": "\uc704\uc2b5",
+    "name_en": "Wisp",
+    "aliases": ["\uc704\uc2b5", "Wisp", "wisp"]
+  },
+  {
+    "id": "CARD.DEATHBRINGER",
+    "match_status": "confirmed",
+    "name_ko": "\uc8fd\uc74c \uc778\ub3c4\uc790",
+    "name_en": "Deathbringer",
+    "aliases": ["\uc8fd\uc74c \uc778\ub3c4\uc790", "\uc8fd\uc74c\uc778\ub3c4\uc790", "Deathbringer", "deathbringer"]
+  },
+  {
+    "id": "CARD.SCOURGE",
+    "match_status": "manual",
+    "name_ko": "\uc9d5\ubc8c",
+    "name_en": "Scourge",
+    "aliases": ["\uc9d5\ubc8c", "Scourge", "scourge"]
+  },
+  {
+    "id": "CARD.NO_ESCAPE",
+    "match_status": "manual",
+    "name_ko": "\ub3c4\ub9dd\uce60 \uc218 \uc5c6\ub2e4",
+    "name_en": "No Escape",
+    "aliases": ["\ub3c4\ub9dd\uce60 \uc218 \uc5c6\ub2e4", "\ub3c4\ub9dd\uce60\uc218\uc5c6\ub2e4", "No Escape", "no escape", "NoEscape", "noescape"]
+  },
+  {
+    "id": "CARD.END_OF_DAYS",
+    "match_status": "manual",
+    "name_ko": "\uc885\ub9d0\uc758 \ub0a0",
+    "name_en": "End of Days",
+    "aliases": ["\uc885\ub9d0\uc758 \ub0a0", "\uc885\ub9d0\uc758\ub0a0", "End of Days", "end of days", "EndOfDays", "endofdays"]
+  },
+  {
+    "id": "CARD.NEGATIVE_PULSE",
+    "match_status": "manual",
+    "name_ko": "\ube44\uad00\uc801\uc778 \ub9e5\ubc15",
+    "name_en": "Negative Pulse",
+    "aliases": ["\ube44\uad00\uc801\uc778 \ub9e5\ubc15", "\ube44\uad00\uc801\uc778\ub9e5\ubc15", "Negative Pulse", "negative pulse", "NegativePulse", "negativepulse"]
+  },
+  {
+    "id": "CARD.SHROUD",
+    "match_status": "manual",
+    "name_ko": "\uc218\uc758",
+    "name_en": "Shroud",
+    "aliases": ["\uc218\uc758", "Shroud", "shroud"]
+  },
+  {
+    "id": "CARD.COUNTDOWN",
+    "match_status": "manual",
+    "name_ko": "\uce74\uc6b4\ud2b8\ub2e4\uc6b4",
+    "name_en": "Countdown",
+    "aliases": ["\uce74\uc6b4\ud2b8\ub2e4\uc6b4", "Countdown", "countdown"]
+  },
+  {
+    "id": "CARD.DEATHS_DOOR",
+    "match_status": "manual",
+    "name_ko": "\uc8fd\uc74c\uc758 \ubb38\ud131",
+    "name_en": "Death's Door",
+    "aliases": ["\uc8fd\uc74c\uc758 \ubb38\ud131", "\uc8fd\uc74c\uc758\ubb38\ud131", "Death's Door", "Deaths Door", "deaths door", "DeathsDoor", "deathsdoor"]
+  },
+  {
+    "id": "CARD.SLEIGHT_OF_FLESH",
+    "match_status": "manual",
+    "name_ko": "\uc0b4\uc810 \uc7ac\uc8fc",
+    "name_en": "Sleight of Flesh",
+    "aliases": ["\uc0b4\uc810 \uc7ac\uc8fc", "\uc0b4\uc810\uc7ac\uc8fc", "Sleight of Flesh", "sleight of flesh", "SleightOfFlesh", "sleightofflesh"]
+  },
+  {
+    "id": "CARD.REAPER_FORM",
+    "match_status": "manual",
+    "name_ko": "\uc0ac\uc2e0\uc758 \ud615\uc0c1",
+    "name_en": "Reaper Form",
+    "aliases": ["\uc0ac\uc2e0\uc758 \ud615\uc0c1", "\uc0ac\uc2e0\uc758\ud615\uc0c1", "Reaper Form", "reaper form", "ReaperForm", "reaperform"]
+  },
+  {
+    "id": "CARD.PUTREFY",
+    "match_status": "manual",
+    "name_ko": "\ubd80\uc2dd",
+    "name_en": "Putrefy",
+    "aliases": ["\ubd80\uc2dd", "Putrefy", "putrefy"]
+  },
+  {
+    "id": "CARD.CAPTURE_SPIRIT",
+    "match_status": "manual",
+    "name_ko": "\ud63c\ub839 \ud3ec\ud68d",
+    "name_en": "Capture Spirit",
+    "aliases": ["\ud63c\ub839 \ud3ec\ud68d", "\ud63c\ub839\ud3ec\ud68d", "Capture Spirit", "capture spirit", "CaptureSpirit", "capturespirit"]
+  },
+  {
+    "id": "CARD.HAUNT",
+    "match_status": "manual",
+    "name_ko": "\ucd9c\ubab0",
+    "name_en": "Haunt",
+    "aliases": ["\ucd9c\ubab0", "Haunt", "haunt"]
+  },
+  {
+    "id": "CARD.SEVERANCE",
+    "match_status": "manual",
+    "name_ko": "\ubd84\ub9ac",
+    "name_en": "Severance",
+    "aliases": ["\ubd84\ub9ac", "Severance", "severance"]
+  },
+  {
+    "id": "CARD.DREDGE",
+    "match_status": "manual",
+    "name_ko": "\ucd94\ucd9c",
+    "name_en": "Dredge",
+    "aliases": ["\ucd94\ucd9c", "Dredge", "dredge"]
+  },
+  {
+    "id": "CARD.GRAVE_WARDEN",
+    "match_status": "manual",
+    "name_ko": "\ubb34\ub364\uc9c0\uae30",
+    "name_en": "Grave Warden",
+    "aliases": ["\ubb34\ub364\uc9c0\uae30", "Grave Warden", "grave warden", "GraveWarden", "gravewarden"]
+  },
+  {
+    "id": "CARD.REAVE",
+    "match_status": "manual",
+    "name_ko": "\uac15\ud0c8",
+    "name_en": "Reave",
+    "aliases": ["\uac15\ud0c8", "Reave", "reave"]
+  },
+  {
+    "id": "CARD.DIRGE",
+    "match_status": "manual",
+    "name_ko": "\uc7a5\uc1a1\uac00",
+    "name_en": "Dirge",
+    "aliases": ["\uc7a5\uc1a1\uac00", "Dirge", "dirge"]
+  },
+  {
+    "id": "CARD.DEVOUR_LIFE",
+    "match_status": "manual",
+    "name_ko": "\uc0dd\uba85 \uc0bc\ud0a4\uae30",
+    "name_en": "Devour Life",
+    "aliases": ["\uc0dd\uba85 \uc0bc\ud0a4\uae30", "\uc0dd\uba85\uc0bc\ud0a4\uae30", "Devour Life", "devour life", "DevourLife", "devourlife"]
+  },
+  {
+    "id": "CARD.CALL_OF_THE_VOID",
+    "match_status": "manual",
+    "name_ko": "\uacf5\ud5c8\uc758 \ubd80\ub984",
+    "name_en": "Call of the Void",
+    "aliases": ["\uacf5\ud5c8\uc758 \ubd80\ub984", "\uacf5\ud5c8\uc758\ubd80\ub984", "Call of the Void", "call of the void", "CallOfTheVoid", "callofthevoid"]
+  },
+  {
+    "id": "CARD.BORROWED_TIME",
+    "match_status": "manual",
+    "name_ko": "\uc5f0\uba85",
+    "name_en": "Borrowed Time",
+    "aliases": ["\uc5f0\uba85", "Borrowed Time", "borrowed time", "BorrowedTime", "borrowedtime"]
+  },
+  {
+    "id": "CARD.PARSE",
+    "match_status": "manual",
+    "name_ko": "\ubd84\uc11d",
+    "name_en": "Parse",
+    "aliases": ["\ubd84\uc11d", "Parse", "parse"]
+  },
+  {
+    "id": "CARD.UNLEASH",
+    "match_status": "manual",
+    "name_ko": "\ud480\uc5b4\ub193\uae30",
+    "name_en": "Unleash",
+    "aliases": ["\ud480\uc5b4\ub193\uae30", "\ud480\uc5b4\ub193\uae30", "Unleash", "unleash"]
+  },
+  {
+    "id": "CARD.BODYGUARD",
+    "match_status": "manual",
+    "name_ko": "\ud638\uc704",
+    "name_en": "Bodyguard",
+    "aliases": ["\ud638\uc704", "Bodyguard", "bodyguard"]
+  },
+  {
+    "id": "CARD.POKE",
+    "match_status": "manual",
+    "name_ko": "\uc465\uc2dc\uae30",
+    "name_en": "Poke",
+    "aliases": ["\uc465\uc2dc\uae30", "Poke", "poke"]
+  },
+  {
+    "id": "CARD.RATTLE",
+    "match_status": "manual",
+    "name_ko": "\ub35c\uadf8\ub7ed\ub300\uae30",
+    "name_en": "Rattle",
+    "aliases": ["\ub35c\uadf8\ub7ed\ub300\uae30", "Rattle", "rattle"]
+  },
+  {
+    "id": "CARD.CALCIFY",
+    "match_status": "manual",
+    "name_ko": "\uc11d\ud68c\ud654",
+    "name_en": "Calcify",
+    "aliases": ["\uc11d\ud68c\ud654", "Calcify", "calcify"]
+  },
+  {
+    "id": "CARD.SQUEEZE",
+    "match_status": "manual",
+    "name_ko": "\uc950\uc5b4\uc9dc\uae30",
+    "name_en": "Squeeze",
+    "aliases": ["\uc950\uc5b4\uc9dc\uae30", "Squeeze", "squeeze"]
+  },
+  {
+    "id": "CARD.FLATTEN",
+    "match_status": "manual",
+    "name_ko": "\ub545\uace0\ub974\uae30",
+    "name_en": "Flatten",
+    "aliases": ["\ub545\uace0\ub974\uae30", "Flatten", "flatten"]
+  },
+  {
+    "id": "CARD.SIC_EM",
+    "match_status": "manual",
+    "name_ko": "\ub36e\uccd0!",
+    "name_en": "Sic 'Em",
+    "aliases": ["\ub36e\uccd0!", "\ub36e\uccd0", "Sic 'Em", "Sic Em", "sic em", "SicEm", "sicem"]
+  },
+  {
+    "id": "CARD.HIGH_FIVE",
+    "match_status": "manual",
+    "name_ko": "\ud558\uc774\ud30c\uc774\ube0c",
+    "name_en": "High Five",
+    "aliases": ["\ud558\uc774\ud30c\uc774\ube0c", "High Five", "high five", "HighFive", "highfive"]
+  },
+  {
+    "id": "CARD.SPUR",
+    "match_status": "manual",
+    "name_ko": "\uaca9\ub824",
+    "name_en": "Spur",
+    "aliases": ["\uaca9\ub824", "Spur", "spur"]
+  },
+  {
+    "id": "CARD.NECRO_MASTERY",
+    "match_status": "manual",
+    "name_ko": "\uac15\ub839\uc758 \uadf9\uc758",
+    "name_en": "Necro Mastery",
+    "aliases": ["\uac15\ub839\uc758 \uadf9\uc758", "\uac15\ub839\uc758\uadf9\uc758", "Necro Mastery", "necro mastery", "NecroMastery", "necromastery"]
+  },
+  {
+    "id": "CARD.PROTECTOR",
+    "match_status": "manual",
+    "name_ko": "\ud30c\uc218\uafbc",
+    "name_en": "Protector",
+    "aliases": ["\ud30c\uc218\uafbc", "Protector", "protector"]
+  },
+  {
+    "id": "CARD.DEFILE",
+    "match_status": "manual",
+    "name_ko": "\ubaa8\ub3c5",
+    "name_en": "Defile",
+    "aliases": ["\ubaa8\ub3c5", "Defile", "defile"]
+  },
+  {
+    "id": "CARD.FEAR",
+    "match_status": "manual",
+    "name_ko": "\ub450\ub824\uc6c0",
+    "name_en": "Fear",
+    "aliases": ["\ub450\ub824\uc6c0", "Fear", "fear"]
+  },
+  {
+    "id": "CARD.PAGESTORM",
+    "match_status": "manual",
+    "name_ko": "\uc11c\ub958 \ud3ed\ud48d",
+    "name_en": "Pagestorm",
+    "aliases": ["\uc11c\ub958 \ud3ed\ud48d", "\uc11c\ub958\ud3ed\ud48d", "Pagestorm", "pagestorm"]
+  },
+  {
+    "id": "CARD.PULL_FROM_BELOW",
+    "match_status": "manual",
+    "name_ko": "\ub04c\uc5b4\ub0b4\ub9ac\uae30",
+    "name_en": "Pull from Below",
+    "aliases": ["\ub04c\uc5b4\ub0b4\ub9ac\uae30", "\ub04c\uc5b4\ub0b4\ub9ac\uae30", "Pull from Below", "pull from below", "PullFromBelow", "pullfrombelow"]
+  },
+  {
+    "id": "CARD.BANSHEES_CRY",
+    "match_status": "manual",
+    "name_ko": "\ubc34\uc2dc\uc758 \uc678\uce68",
+    "name_en": "Banshee's Cry",
+    "aliases": ["\ubc34\uc2dc\uc758 \uc678\uce68", "\ubc34\uc2dc\uc758\uc678\uce68", "Banshee's Cry", "Banshees Cry", "banshees cry", "BansheesCry", "bansheescry"]
+  },
+  {
+    "id": "CARD.SCULPTING_STRIKE",
+    "match_status": "manual",
+    "name_ko": "\uc870\uac01 \ud0c0\uaca9",
+    "name_en": "Sculpting Strike",
+    "aliases": ["\uc870\uac01 \ud0c0\uaca9", "\uc870\uac01\ud0c0\uaca9", "Sculpting Strike", "sculpting strike", "SculptingStrike", "sculptingstrike"]
+  },
+  {
+    "id": "CARD.VEILPIERCER",
+    "match_status": "manual",
+    "name_ko": "\uc7a5\ub9c9 \uad00\ud1b5\uc790",
+    "name_en": "Veilpiercer",
+    "aliases": ["\uc7a5\ub9c9 \uad00\ud1b5\uc790", "\uc7a5\ub9c9\uad00\ud1b5\uc790", "Veilpiercer", "veilpiercer"]
+  },
+  {
+    "id": "CARD.ENFEEBLING_TOUCH",
+    "match_status": "manual",
+    "name_ko": "\uc1e0\uc57d\uc758 \uc190\uae38",
+    "name_en": "Enfeebling Touch",
+    "aliases": ["\uc1e0\uc57d\uc758 \uc190\uae38", "\uc1e0\uc57d\uc758\uc190\uae38", "Enfeebling Touch", "enfeebling touch", "EnfeeblingTouch", "enfeeblingtouch"]
+  },
+  {
+    "id": "CARD.SPIRIT_OF_ASH",
+    "match_status": "manual",
+    "name_ko": "\uc783\ube5b \ud63c\ub839",
+    "name_en": "Spirit of Ash",
+    "aliases": ["\uc783\ube5b \ud63c\ub839", "\uc783\ube5b\ud63c\ub839", "Spirit of Ash", "spirit of ash", "SpiritOfAsh", "spiritofash"]
+  },
+  {
+    "id": "CARD.SEANCE",
+    "match_status": "manual",
+    "name_ko": "\uac15\ub839\ud68c",
+    "name_en": "Seance",
+    "aliases": ["\uac15\ub839\ud68c", "Seance", "seance"]
+  },
+  {
+    "id": "CARD.OBLIVION",
+    "match_status": "manual",
+    "name_ko": "\ub9dd\uac01",
+    "name_en": "Oblivion",
+    "aliases": ["\ub9dd\uac01", "Oblivion", "oblivion"]
+  },
+  {
+    "id": "CARD.TRANSFIGURE",
+    "match_status": "manual",
+    "name_ko": "\ubcc0\ud615",
+    "name_en": "Transfigure",
+    "aliases": ["\ubcc0\ud615", "Transfigure", "transfigure"]
+  },
+  {
+    "id": "CARD.DANSE_MACABRE",
+    "match_status": "manual",
+    "name_ko": "\uc8fd\uc74c\uc758 \ubb34\ub3c4",
+    "name_en": "Danse Macabre",
+    "aliases": ["\uc8fd\uc74c\uc758 \ubb34\ub3c4", "\uc8fd\uc74c\uc758\ubb34\ub3c4", "Danse Macabre", "danse macabre", "DanseMacabre", "dansemacabre"]
+  },
+  {
+    "id": "CARD.ERADICATE",
+    "match_status": "manual",
+    "name_ko": "\ucc99\uacb0",
+    "name_en": "Eradicate",
+    "aliases": ["\ucc99\uacb0", "Eradicate", "eradicate"]
+  },
+  {
+    "id": "CARD.BURY",
+    "match_status": "manual",
+    "name_ko": "\ub9e4\uc7a5",
+    "name_en": "Bury",
+    "aliases": ["\ub9e4\uc7a5", "Bury", "bury"]
+  },
+  {
+    "id": "CARD.DEMESNE",
+    "match_status": "manual",
+    "name_ko": "\uad8c\uc5ed",
+    "name_en": "Demesne",
+    "aliases": ["\uad8c\uc5ed", "Demesne", "demesne"]
+  },
+  {
+    "id": "CARD.DELAY",
+    "match_status": "manual",
+    "name_ko": "\uc9c0\uc5f0",
+    "name_en": "Delay",
+    "aliases": ["\uc9c0\uc5f0", "Delay", "delay"]
+  },
+  {
+    "id": "CARD.RIGHT_HAND_HAND",
+    "match_status": "manual",
+    "name_ko": "\uc9c4\uc815\ud55c \uc624\ub978\ud314",
+    "name_en": "Right Hand Hand",
+    "aliases": ["\uc9c4\uc815\ud55c \uc624\ub978\ud314", "\uc9c4\uc815\ud55c\uc624\ub978\ud314", "Right Hand Hand", "right hand hand", "RightHandHand", "righthandhand"]
+  },
+  {
+    "id": "CARD.LETHALITY",
+    "match_status": "manual",
+    "name_ko": "\uce58\uc0ac\uc131",
+    "name_en": "Lethality",
+    "aliases": ["\uce58\uc0ac\uc131", "Lethality", "lethality"]
+  }
+]

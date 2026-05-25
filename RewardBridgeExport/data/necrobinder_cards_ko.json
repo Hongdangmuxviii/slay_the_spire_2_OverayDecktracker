@@ -1,0 +1,882 @@
+[
+  {
+    "section": "starting",
+    "card_type": "attack",
+    "rarity": "starter",
+    "name_ko": "타격",
+    "name_en": "Strike",
+    "cost": "1",
+    "effect_raw": "피해를 6 줍니다.",
+    "upgrade_raw": "피해 6 -> 9"
+  },
+  {
+    "section": "starting",
+    "card_type": "attack",
+    "rarity": "starter",
+    "name_ko": "풀어놓기",
+    "name_en": "Unleash",
+    "cost": "1",
+    "effect_raw": "골골이가 피해를 6 줍니다. 골골이의 현재 체력만큼 피해량이 증가합니다.",
+    "upgrade_raw": "피해 6 -> 9"
+  },
+  {
+    "section": "starting",
+    "card_type": "skill",
+    "rarity": "starter",
+    "name_ko": "수비",
+    "name_en": "Defend",
+    "cost": "1",
+    "effect_raw": "방어도를 5 얻습니다.",
+    "upgrade_raw": "방어도 5 -> 8"
+  },
+  {
+    "section": "starting",
+    "card_type": "skill",
+    "rarity": "starter",
+    "name_ko": "호위",
+    "name_en": "Bodyguard",
+    "cost": "1",
+    "effect_raw": "소환 5.",
+    "upgrade_raw": "5 -> 7"
+  },
+  {
+    "section": "common",
+    "card_type": "attack",
+    "rarity": "common",
+    "name_ko": "쑤시기",
+    "name_en": "Poke",
+    "cost": "0",
+    "effect_raw": "골골이가 피해를 6 줍니다.",
+    "upgrade_raw": "피해 6 -> 9"
+  },
+  {
+    "section": "common",
+    "card_type": "attack",
+    "rarity": "common",
+    "name_ko": "강탈",
+    "name_en": "Reave",
+    "cost": "1",
+    "effect_raw": "피해를 9 줍니다. 뽑을 카드 더미에 영혼을 1장 섞어 넣습니다.",
+    "upgrade_raw": "피해 9 -> 11, 영혼 -> 영혼+"
+  },
+  {
+    "section": "common",
+    "card_type": "attack",
+    "rarity": "common",
+    "name_ko": "기력 흡수",
+    "name_en": "Drain Power",
+    "cost": "1",
+    "effect_raw": "피해를 10 줍니다. 버린 카드 더미에 있는 무작위 카드를 2장 강화합니다.",
+    "upgrade_raw": "피해 10 -> 12, 카드 강화 2장 -> 3장"
+  },
+  {
+    "section": "common",
+    "card_type": "attack",
+    "rarity": "common",
+    "name_ko": "넘기기",
+    "name_en": "Snap",
+    "cost": "1",
+    "effect_raw": "골골이가 피해를 7 줍니다. 손에 있는 카드 1장에 보존을 추가합니다.",
+    "upgrade_raw": "피해 7 -> 10"
+  },
+  {
+    "section": "common",
+    "card_type": "attack",
+    "rarity": "common",
+    "name_ko": "두려움",
+    "name_en": "Fear",
+    "cost": "1",
+    "effect_raw": "휘발성. 피해를 7 줍니다. 취약을 1 부여합니다.",
+    "upgrade_raw": "피해 7 -> 8, 취약 1 -> 2"
+  },
+  {
+    "section": "common",
+    "card_type": "attack",
+    "rarity": "common",
+    "name_ko": "모독",
+    "name_en": "Defile",
+    "cost": "1",
+    "effect_raw": "휘발성. 피해를 13 줍니다.",
+    "upgrade_raw": "피해 13 -> 17"
+  },
+  {
+    "section": "common",
+    "card_type": "attack",
+    "rarity": "common",
+    "name_ko": "무덤 폭발",
+    "name_en": "Graveblast",
+    "cost": "1",
+    "effect_raw": "피해를 4 줍니다. 버린 카드 더미에서 카드를 1장 손으로 가져옵니다. 소멸.",
+    "upgrade_raw": "피해 4 -> 6, 소멸 제거"
+  },
+  {
+    "section": "common",
+    "card_type": "attack",
+    "rarity": "common",
+    "name_ko": "역병 타격",
+    "name_en": "Blight Strike",
+    "cost": "1",
+    "effect_raw": "피해를 8 줍니다. 가한 피해량만큼 종말을 부여합니다.",
+    "upgrade_raw": "피해 8 -> 10"
+  },
+  {
+    "section": "common",
+    "card_type": "attack",
+    "rarity": "common",
+    "name_ko": "조각 타격",
+    "name_en": "Sculpting Strike",
+    "cost": "1",
+    "effect_raw": "피해를 9 줍니다. 손에 있는 카드 1장에 휘발성을 추가합니다.",
+    "upgrade_raw": "피해 9 -> 12"
+  },
+  {
+    "section": "common",
+    "card_type": "attack",
+    "rarity": "common",
+    "name_ko": "파종",
+    "name_en": "Sow",
+    "cost": "1",
+    "effect_raw": "보존. 모든 적에게 피해를 8 줍니다.",
+    "upgrade_raw": "피해 8 -> 11"
+  },
+  {
+    "section": "common",
+    "card_type": "attack",
+    "rarity": "common",
+    "name_ko": "땅고르기",
+    "name_en": "Flatten",
+    "cost": "2",
+    "effect_raw": "골골이가 피해를 12 줍니다. 이번 턴에 골골이가 공격했다면, 이 카드의 비용이 0이 됩니다.",
+    "upgrade_raw": "피해 12 -> 16"
+  },
+  {
+    "section": "common",
+    "card_type": "attack",
+    "rarity": "common",
+    "name_ko": "수확",
+    "name_en": "Reap",
+    "cost": "3",
+    "effect_raw": "보존. 피해를 27 줍니다.",
+    "upgrade_raw": "피해 27 -> 33"
+  },
+  {
+    "section": "common",
+    "card_type": "skill",
+    "rarity": "common",
+    "name_ko": "위습",
+    "name_en": "Wisp",
+    "cost": "0",
+    "effect_raw": "sts2 necrobinder...를 얻습니다. 소멸.",
+    "upgrade_raw": "보존 추가"
+  },
+  {
+    "section": "common",
+    "card_type": "skill",
+    "rarity": "common",
+    "name_ko": "내세",
+    "name_en": "Afterlife",
+    "cost": "1",
+    "effect_raw": "소환 6. 소멸.",
+    "upgrade_raw": "소환 6 -> 9"
+  },
+  {
+    "section": "common",
+    "card_type": "skill",
+    "rarity": "common",
+    "name_ko": "무덤지기",
+    "name_en": "Grave Warden",
+    "cost": "1",
+    "effect_raw": "방어도를 8 얻습니다. 뽑을 카드 더미에 영혼을 1장 섞어 넣습니다.",
+    "upgrade_raw": "방어도 8 -> 11"
+  },
+  {
+    "section": "common",
+    "card_type": "skill",
+    "rarity": "common",
+    "name_ko": "반항",
+    "name_en": "Defy",
+    "cost": "1",
+    "effect_raw": "휘발성. 방어도를 6 얻습니다. 약화를 1 부여합니다.",
+    "upgrade_raw": "방어도 6 -> 9"
+  },
+  {
+    "section": "common",
+    "card_type": "skill",
+    "rarity": "common",
+    "name_ko": "부름",
+    "name_en": "Invoke",
+    "cost": "1",
+    "effect_raw": "다음 턴에, 소환 2 후 sts2 necrobinder... sts2 necrobinder...를 얻습니다.",
+    "upgrade_raw": "소환 2 -> 3, sts2 necrobinder... sts2 necrobinder... -> sts2 necrobinder... sts2 necrobinder... sts2 necrobinder..."
+  },
+  {
+    "section": "common",
+    "card_type": "skill",
+    "rarity": "common",
+    "name_ko": "비관적인 맥박",
+    "name_en": "Negative Pulse",
+    "cost": "1",
+    "effect_raw": "방어도를 5 얻습니다. 모든 적에게 종말을 7 부여합니다.",
+    "upgrade_raw": "방어도 5 -> 6, 종말 7 -> 11"
+  },
+  {
+    "section": "common",
+    "card_type": "skill",
+    "rarity": "common",
+    "name_ko": "징벌",
+    "name_en": "Scourge",
+    "cost": "1",
+    "effect_raw": "종말을 13 부여합니다. 카드를 1장 뽑습니다.",
+    "upgrade_raw": "종말 13 -> 16, 카드 1장 -> 2장"
+  },
+  {
+    "section": "common",
+    "card_type": "skill",
+    "rarity": "common",
+    "name_ko": "시선 유도",
+    "name_en": "Pull Aggro",
+    "cost": "2",
+    "effect_raw": "소환 4. 방어도를 7 얻습니다.",
+    "upgrade_raw": "소환 4 -> 5, 방어도 7 -> 9"
+  },
+  {
+    "section": "advanced",
+    "card_type": "attack",
+    "rarity": "advanced",
+    "name_ko": "진정한 오른팔",
+    "name_en": "Right Hand Hand",
+    "cost": "0",
+    "effect_raw": "골골이가 피해를 4 줍니다. 비용이 2 이상인 카드를 사용할 때마다, 이 카드가 버린 카드 더미에서 손으로 돌아옵니다.",
+    "upgrade_raw": "피해 4 -> 6"
+  },
+  {
+    "section": "advanced",
+    "card_type": "attack",
+    "rarity": "advanced",
+    "name_ko": "회수",
+    "name_en": "Fetch",
+    "cost": "0",
+    "effect_raw": "골골이가 피해를 3 줍니다. 이번 턴에 이 카드를 처음으로 사용했다면, 카드를 1장 뽑습니다.",
+    "upgrade_raw": "피해 3 -> 6"
+  },
+  {
+    "section": "advanced",
+    "card_type": "attack",
+    "rarity": "advanced",
+    "name_ko": "끌어내리기",
+    "name_en": "Pull from Below",
+    "cost": "1",
+    "effect_raw": "이번 전투 동안 사용한 휘발성 카드 1장당 피해를 5 줍니다.",
+    "upgrade_raw": "피해 5 -> 7"
+  },
+  {
+    "section": "advanced",
+    "card_type": "attack",
+    "rarity": "advanced",
+    "name_ko": "덜그럭대기",
+    "name_en": "Rattle",
+    "cost": "1",
+    "effect_raw": "골골이가 피해를 7 줍니다. 이번 턴 동안 골골이가 공격한 횟수만큼 반복합니다.",
+    "upgrade_raw": "피해 7 -> 9"
+  },
+  {
+    "section": "advanced",
+    "card_type": "attack",
+    "rarity": "advanced",
+    "name_ko": "덮쳐!",
+    "name_en": "Sic 'Em",
+    "cost": "1",
+    "effect_raw": "골골이가 피해를 5 줍니다. 이번 턴에 골골이가 이 적을 공격할 때마다, 소환 2",
+    "upgrade_raw": "피해 5 -> 6, 소환 2 -> 3"
+  },
+  {
+    "section": "advanced",
+    "card_type": "attack",
+    "rarity": "advanced",
+    "name_ko": "뼛조각",
+    "name_en": "Bone Shards",
+    "cost": "1",
+    "effect_raw": "골골이가 살아있다면, 골골이가 모든 적에게 피해를 9 주고 내가 방어도를 9 얻습니다. 골골이가 죽습니다.",
+    "upgrade_raw": "피해 9 -> 12, 방어도 9 -> 12"
+  },
+  {
+    "section": "advanced",
+    "card_type": "attack",
+    "rarity": "advanced",
+    "name_ko": "쇠락",
+    "name_en": "Debilitate",
+    "cost": "1",
+    "effect_raw": "피해를 10 줍니다. 다음 3턴 동안 이 적을 대상으로 하는 취약과 약화의 효과가 2배가 됩니다.",
+    "upgrade_raw": "피해 10 -> 12, 3턴 -> 4턴"
+  },
+  {
+    "section": "advanced",
+    "card_type": "attack",
+    "rarity": "advanced",
+    "name_ko": "장막 관통자",
+    "name_en": "Veilpiercer",
+    "cost": "1",
+    "effect_raw": "피해를 10 줍니다. 다음에 사용하는 휘발성 카드의 비용이 0이 됩니다.",
+    "upgrade_raw": "피해 10 -> 13"
+  },
+  {
+    "section": "advanced",
+    "card_type": "attack",
+    "rarity": "advanced",
+    "name_ko": "죽음의 행진",
+    "name_en": "Death March",
+    "cost": "1",
+    "effect_raw": "피해를 8 줍니다. 내 턴 동안 뽑은 카드 1장당 피해량이 3 증가합니다.",
+    "upgrade_raw": "피해 8 -> 9, 피해량 증가 3 -> 4"
+  },
+  {
+    "section": "advanced",
+    "card_type": "attack",
+    "rarity": "advanced",
+    "name_ko": "분리",
+    "name_en": "Severance",
+    "cost": "2",
+    "effect_raw": "피해를 13 줍니다. 뽑을 카드 더미, 손, 버린 카드 더미에 영혼을 1장 추가합니다.",
+    "upgrade_raw": "피해 13 -> 18"
+  },
+  {
+    "section": "advanced",
+    "card_type": "attack",
+    "rarity": "advanced",
+    "name_ko": "하이파이브",
+    "name_en": "High Five",
+    "cost": "2",
+    "effect_raw": "골골이가 모든 적에게 피해를 11 주고 취약을 2 부여합니다.",
+    "upgrade_raw": "피해 11 -> 13, 취약 2 -> 3"
+  },
+  {
+    "section": "advanced",
+    "card_type": "attack",
+    "rarity": "advanced",
+    "name_ko": "매장",
+    "name_en": "Bury",
+    "cost": "4",
+    "effect_raw": "피해를 52 줍니다.",
+    "upgrade_raw": "피해 52 -> 63"
+  },
+  {
+    "section": "advanced",
+    "card_type": "skill",
+    "rarity": "advanced",
+    "name_ko": "장송가",
+    "name_en": "Dirge",
+    "cost": "X",
+    "effect_raw": "X번 소환 3. 뽑을 카드 더미에 영혼을 X장 섞어 넣습니다. 소멸.",
+    "upgrade_raw": "소환 3 -> 4, 영혼 -> 영혼+"
+  },
+  {
+    "section": "advanced",
+    "card_type": "skill",
+    "rarity": "advanced",
+    "name_ko": "격려",
+    "name_en": "Spur",
+    "cost": "1",
+    "effect_raw": "보존. 소환 3. 골골이가 체력을 5 회복합니다.",
+    "upgrade_raw": "소환 3 -> 5, 체력 5 -> 7"
+  },
+  {
+    "section": "advanced",
+    "card_type": "skill",
+    "rarity": "advanced",
+    "name_ko": "도망칠 수 없다",
+    "name_en": "No Escape",
+    "cost": "1",
+    "effect_raw": "종말을 10 부여하고, 이 적에게 부여된 종말 10당, 종말을 추가로 5 부여합니다.",
+    "upgrade_raw": "종말 10 부여 -> 15 부여"
+  },
+  {
+    "section": "advanced",
+    "card_type": "skill",
+    "rarity": "advanced",
+    "name_ko": "부식",
+    "name_en": "Putrefy",
+    "cost": "1",
+    "effect_raw": "약화를 2 부여합니다. 취약을 2 부여합니다. 소멸.",
+    "upgrade_raw": "약화 2 -> 3, 취약 2 -> 3"
+  },
+  {
+    "section": "advanced",
+    "card_type": "skill",
+    "rarity": "advanced",
+    "name_ko": "분석",
+    "name_en": "Parse",
+    "cost": "1",
+    "effect_raw": "휘발성. 카드를 3장 뽑습니다.",
+    "upgrade_raw": "3장 -> 4장"
+  },
+  {
+    "section": "advanced",
+    "card_type": "skill",
+    "rarity": "advanced",
+    "name_ko": "쇠약의 손길",
+    "name_en": "Enfeebling Touch",
+    "cost": "1",
+    "effect_raw": "휘발성. 이번 턴 동안 적이 힘을 8 잃습니다.",
+    "upgrade_raw": "힘 8 -> 11"
+  },
+  {
+    "section": "advanced",
+    "card_type": "skill",
+    "rarity": "advanced",
+    "name_ko": "연명",
+    "name_en": "Borrowed Time",
+    "cost": "1",
+    "effect_raw": "4sts2 necrobinder...를 얻습니다. 이번 턴 동안 카드의 비용이 sts2 necrobinder... 증가합니다.",
+    "upgrade_raw": "4sts2 necrobinder... -> 6sts2 necrobinder..."
+  },
+  {
+    "section": "advanced",
+    "card_type": "skill",
+    "rarity": "advanced",
+    "name_ko": "정화",
+    "name_en": "Cleanse",
+    "cost": "1",
+    "effect_raw": "소환 3. 뽑을 카드 더미의 카드를 1장 소멸시킵니다.",
+    "upgrade_raw": "소환 3 -> 5"
+  },
+  {
+    "section": "advanced",
+    "card_type": "skill",
+    "rarity": "advanced",
+    "name_ko": "죽음의 문턱",
+    "name_en": "Death's Door",
+    "cost": "1",
+    "effect_raw": "방어도를 6 얻습니다. 이번 턴에 종말을 부여했다면, 방어도를 추가로 2번 얻습니다.",
+    "upgrade_raw": "방어도 6 -> 7"
+  },
+  {
+    "section": "advanced",
+    "card_type": "skill",
+    "rarity": "advanced",
+    "name_ko": "추출",
+    "name_en": "Dredge",
+    "cost": "1",
+    "effect_raw": "버린 카드 더미에서 카드를 3장 손으로 가져옵니다. 소멸.",
+    "upgrade_raw": "보존 추가"
+  },
+  {
+    "section": "advanced",
+    "card_type": "skill",
+    "rarity": "advanced",
+    "name_ko": "혼령 포획",
+    "name_en": "Capture Spirit",
+    "cost": "1",
+    "effect_raw": "적이 체력을 3 잃습니다. 뽑을 카드 더미에 영혼을 3장 섞어 넣습니다.",
+    "upgrade_raw": "체력 3 -> 4, 영혼 3장 -> 4장"
+  },
+  {
+    "section": "advanced",
+    "card_type": "skill",
+    "rarity": "advanced",
+    "name_ko": "죽음 인도자",
+    "name_en": "Deathbringer",
+    "cost": "2",
+    "effect_raw": "모든 적에게 종말을 21, 약화를 1 부여합니다.",
+    "upgrade_raw": "종말 21 -> 26"
+  },
+  {
+    "section": "advanced",
+    "card_type": "skill",
+    "rarity": "advanced",
+    "name_ko": "지연",
+    "name_en": "Delay",
+    "cost": "2",
+    "effect_raw": "방어도를 11 얻습니다. 다음 턴에, sts2 necrobinder...를 얻습니다.",
+    "upgrade_raw": "방어도 11 -> 13, sts2 necrobinder... -> sts2 necrobinder... sts2 necrobinder..."
+  },
+  {
+    "section": "advanced",
+    "card_type": "skill",
+    "rarity": "advanced",
+    "name_ko": "비애",
+    "name_en": "Melancholy",
+    "cost": "3",
+    "effect_raw": "방어도를 13 얻습니다. 누군가 죽을 때마다 이 카드의 비용이 sts2 necrobinder... 감소합니다.",
+    "upgrade_raw": "방어도 13 -> 17"
+  },
+  {
+    "section": "advanced",
+    "card_type": "power",
+    "rarity": "advanced",
+    "name_ko": "서류 폭풍",
+    "name_en": "Pagestorm",
+    "cost": "1",
+    "effect_raw": "휘발성 카드를 뽑을 때마다, 카드를 1장 뽑습니다.",
+    "upgrade_raw": "비용 1 -> 0"
+  },
+  {
+    "section": "advanced",
+    "card_type": "power",
+    "rarity": "advanced",
+    "name_ko": "석회화",
+    "name_en": "Calcify",
+    "cost": "1",
+    "effect_raw": "골골이가 가하는 공격의 피해량이 4 증가합니다.",
+    "upgrade_raw": "피해량 4 -> 6"
+  },
+  {
+    "section": "advanced",
+    "card_type": "power",
+    "rarity": "advanced",
+    "name_ko": "수의",
+    "name_en": "Shroud",
+    "cost": "1",
+    "effect_raw": "종말을 부여할 때마다, 방어도를 2 얻습니다.",
+    "upgrade_raw": "방어도 2 -> 3"
+  },
+  {
+    "section": "advanced",
+    "card_type": "power",
+    "rarity": "advanced",
+    "name_ko": "우정",
+    "name_en": "Friendship",
+    "cost": "1",
+    "effect_raw": "힘을 2 잃습니다. 매 턴 시작 시 sts2 necrobinder...를 얻습니다.",
+    "upgrade_raw": "힘 감소 2 -> 1"
+  },
+  {
+    "section": "advanced",
+    "card_type": "power",
+    "rarity": "advanced",
+    "name_ko": "죽음의 무도",
+    "name_en": "Danse Macabre",
+    "cost": "1",
+    "effect_raw": "비용이 2 이상인 카드를 사용할 때마다, 방어도를 4 얻습니다.",
+    "upgrade_raw": "방어도 4 -> 6"
+  },
+  {
+    "section": "advanced",
+    "card_type": "power",
+    "rarity": "advanced",
+    "name_ko": "출몰",
+    "name_en": "Haunt",
+    "cost": "1",
+    "effect_raw": "영혼을 사용할 때마다, 무작위 적이 체력을 6 잃습니다.",
+    "upgrade_raw": "체력 6 -> 8"
+  },
+  {
+    "section": "advanced",
+    "card_type": "power",
+    "rarity": "advanced",
+    "name_ko": "치사성",
+    "name_en": "Lethality",
+    "cost": "1",
+    "effect_raw": "휘발성. 매 턴마다 처음으로 사용하는 공격 카드의 피해량이 50% 증가합니다.",
+    "upgrade_raw": "50% -> 75%"
+  },
+  {
+    "section": "advanced",
+    "card_type": "power",
+    "rarity": "advanced",
+    "name_ko": "카운트다운",
+    "name_en": "Countdown",
+    "cost": "1",
+    "effect_raw": "내 턴 시작 시, 무작위 적에게 종말을 6 부여합니다.",
+    "upgrade_raw": "종말 6 -> 9"
+  },
+  {
+    "section": "advanced",
+    "card_type": "power",
+    "rarity": "advanced",
+    "name_ko": "살점 재주",
+    "name_en": "Sleight of Flesh",
+    "cost": "2",
+    "effect_raw": "적에게 해로운 효과를 부여할 때마다, 대상 적이 피해를 9 받습니다.",
+    "upgrade_raw": "피해 9 -> 13"
+  },
+  {
+    "section": "rare",
+    "card_type": "attack",
+    "rarity": "rare",
+    "name_ko": "비참함",
+    "name_en": "Misery",
+    "cost": "0",
+    "effect_raw": "피해를 7 줍니다. 대상 적에게 부여된 모든 해로운 효과를 다른 모든 적에게 부여합니다.",
+    "upgrade_raw": "보존 추가, 피해 7 -> 9"
+  },
+  {
+    "section": "rare",
+    "card_type": "attack",
+    "rarity": "rare",
+    "name_ko": "척결",
+    "name_en": "Eradicate",
+    "cost": "X",
+    "effect_raw": "보존. 피해를 11만큼 X번 줍니다.",
+    "upgrade_raw": "피해 11 -> 14"
+  },
+  {
+    "section": "rare",
+    "card_type": "attack",
+    "rarity": "rare",
+    "name_ko": "매달기",
+    "name_en": "Hang",
+    "cost": "1",
+    "effect_raw": "피해를 10 줍니다. 모든 매달기 카드가 이 적에게 가하는 피해량이 2배로 증가합니다.",
+    "upgrade_raw": "피해 10 -> 13"
+  },
+  {
+    "section": "rare",
+    "card_type": "attack",
+    "rarity": "rare",
+    "name_ko": "영혼 폭풍",
+    "name_en": "Soul Storm",
+    "cost": "1",
+    "effect_raw": "피해를 9 줍니다. 소멸된 카드 더미에 있는 영혼 1장당 피해량이 2 증가합니다.",
+    "upgrade_raw": "피해량 증가 2 -> 3"
+  },
+  {
+    "section": "rare",
+    "card_type": "attack",
+    "rarity": "rare",
+    "name_ko": "때가 되었다",
+    "name_en": "Time's Up",
+    "cost": "2",
+    "effect_raw": "대상 적이 보유한 종말만큼 피해를 줍니다. 소멸.",
+    "upgrade_raw": "보존 추가"
+  },
+  {
+    "section": "rare",
+    "card_type": "attack",
+    "rarity": "rare",
+    "name_ko": "사신의 낫",
+    "name_en": "The Scythe",
+    "cost": "2",
+    "effect_raw": "피해를 13 줍니다. 이 카드의 피해량이 영구적으로 3 증가합니다. 소멸.",
+    "upgrade_raw": "피해량 증가 3 -> 4"
+  },
+  {
+    "section": "rare",
+    "card_type": "attack",
+    "rarity": "rare",
+    "name_ko": "쥐어짜기",
+    "name_en": "Squeeze",
+    "cost": "3",
+    "effect_raw": "골골이가 피해를 25 줍니다. 다른 모든 골골이 공격 카드 1장당 피해량이 5 증가합니다.",
+    "upgrade_raw": "피해 25 -> 30, 피해량 증가 5 -> 6"
+  },
+  {
+    "section": "rare",
+    "card_type": "attack",
+    "rarity": "rare",
+    "name_ko": "밴시의 외침",
+    "name_en": "Banshee's Cry",
+    "cost": "9",
+    "effect_raw": "모든 적에게 피해를 33 줍니다. 이번 전투 동안 사용한 휘발성 카드 1장당 비용이 2 감소합니다.",
+    "upgrade_raw": "비용 9 -> 7"
+  },
+  {
+    "section": "rare",
+    "card_type": "skill",
+    "rarity": "rare",
+    "name_ko": "강령회",
+    "name_en": "Seance",
+    "cost": "1",
+    "effect_raw": "휘발성. 뽑을 카드 더미의 카드를 1장 영혼으로 변화시킵니다.",
+    "upgrade_raw": "비용 1 -> 0"
+  },
+  {
+    "section": "rare",
+    "card_type": "skill",
+    "rarity": "rare",
+    "name_ko": "망각",
+    "name_en": "Oblivion",
+    "cost": "0",
+    "effect_raw": "이번 턴에 카드를 사용할 때마다, 대상 적에게 종말을 3 부여합니다.",
+    "upgrade_raw": "종말 3 -> 4"
+  },
+  {
+    "section": "rare",
+    "card_type": "skill",
+    "rarity": "rare",
+    "name_ko": "불사",
+    "name_en": "Undeath",
+    "cost": "0",
+    "effect_raw": "방어도를 7 얻습니다. 이 카드의 복사본을 1장 버린 카드 더미에 섞어 넣습니다.",
+    "upgrade_raw": "방어도 7 -> 9"
+  },
+  {
+    "section": "rare",
+    "card_type": "skill",
+    "rarity": "rare",
+    "name_ko": "운명 공유",
+    "name_en": "Shared Fate",
+    "cost": "0",
+    "effect_raw": "힘을 2 잃습니다. 적이 힘을 2 잃습니다. 소멸.",
+    "upgrade_raw": "적의 힘 감소 2 -> 3"
+  },
+  {
+    "section": "rare",
+    "card_type": "skill",
+    "rarity": "rare",
+    "name_ko": "변형",
+    "name_en": "Transfigure",
+    "cost": "1",
+    "effect_raw": "손에 있는 카드 1장에 재사용을 1 추가합니다. 그 카드의 비용이 1 증가합니다. 소멸.",
+    "upgrade_raw": "소멸 제거"
+  },
+  {
+    "section": "rare",
+    "card_type": "skill",
+    "rarity": "rare",
+    "name_ko": "희생",
+    "name_en": "Sacrifice",
+    "cost": "1",
+    "effect_raw": "보존. 골골이가 살아있다면, 골골이가 죽고 골골이의 최대 체력의 2배만큼의 방어도를 얻습니다.",
+    "upgrade_raw": "비용 1 -> 0"
+  },
+  {
+    "section": "rare",
+    "card_type": "skill",
+    "rarity": "rare",
+    "name_ko": "허상",
+    "name_en": "Eidolon",
+    "cost": "2",
+    "effect_raw": "손에 있는 모든 카드를 소멸시킵니다. 이를 통해 카드를 9장 소멸시켰다면, 불가침을 1 얻습니다.",
+    "upgrade_raw": "비용 2 -> 1"
+  },
+  {
+    "section": "rare",
+    "card_type": "skill",
+    "rarity": "rare",
+    "name_ko": "소생",
+    "name_en": "Reanimate",
+    "cost": "3",
+    "effect_raw": "소환 20. 소멸.",
+    "upgrade_raw": "소환 20 -> 25"
+  },
+  {
+    "section": "rare",
+    "card_type": "skill",
+    "rarity": "rare",
+    "name_ko": "종말의 날",
+    "name_en": "End of Days",
+    "cost": "3",
+    "effect_raw": "모든 적에게 종말을 29 부여합니다. 체력이 종말 이하인 적을 처치합니다.",
+    "upgrade_raw": "종말 29 -> 37"
+  },
+  {
+    "section": "rare",
+    "card_type": "power",
+    "rarity": "rare",
+    "name_ko": "정신 폭주",
+    "name_en": "Neurosurge",
+    "cost": "0",
+    "effect_raw": "sts2 necrobinder... sts2 necrobinder... sts2 necrobinder...를 얻습니다. 카드를 2장 뽑습니다. 내 턴 시작 시, 자신에게 종말을 3 부여합니다.",
+    "upgrade_raw": "sts2 necrobinder... sts2 necrobinder... sts2 necrobinder... -> 4sts2 necrobinder..."
+  },
+  {
+    "section": "rare",
+    "card_type": "power",
+    "rarity": "rare",
+    "name_ko": "공허의 부름",
+    "name_en": "Call of the Void",
+    "cost": "1",
+    "effect_raw": "내 턴 시작 시, 무작위 카드를 1장 손으로 가져옵니다. 그 카드가 휘발성을 얻습니다.",
+    "upgrade_raw": "선천성 추가"
+  },
+  {
+    "section": "rare",
+    "card_type": "power",
+    "rarity": "rare",
+    "name_ko": "생명 삼키기",
+    "name_en": "Devour Life",
+    "cost": "1",
+    "effect_raw": "영혼을 사용할 때마다, 소환 1",
+    "upgrade_raw": "소환 1 -> 2"
+  },
+  {
+    "section": "rare",
+    "card_type": "power",
+    "rarity": "rare",
+    "name_ko": "잿빛 혼령",
+    "name_en": "Spirit of Ash",
+    "cost": "1",
+    "effect_raw": "휘발성 카드를 사용할 때마다, 방어도를 4 얻습니다.",
+    "upgrade_raw": "방어도 4 -> 5"
+  },
+  {
+    "section": "rare",
+    "card_type": "power",
+    "rarity": "rare",
+    "name_ko": "강령의 극의",
+    "name_en": "Necro Mastery",
+    "cost": "2",
+    "effect_raw": "소환 5. 골골이가 체력을 잃을 때마다, 모든 적이 동일한 만큼의 체력을 잃습니다.",
+    "upgrade_raw": "소환 5 -> 8"
+  },
+  {
+    "section": "rare",
+    "card_type": "power",
+    "rarity": "rare",
+    "name_ko": "경계 태세",
+    "name_en": "Sentry Mode",
+    "cost": "2",
+    "effect_raw": "내 턴 시작 시, 훑어보기를 1장 손으로 가져옵니다.",
+    "upgrade_raw": "비용 2 -> 1"
+  },
+  {
+    "section": "rare",
+    "card_type": "power",
+    "rarity": "rare",
+    "name_ko": "권역",
+    "name_en": "Demesne",
+    "cost": "3",
+    "effect_raw": "휘발성. 내 턴 시작 시, sts2 necrobinder...를 얻고 카드를 추가로 1장 뽑습니다.",
+    "upgrade_raw": "비용 3 -> 2"
+  },
+  {
+    "section": "rare",
+    "card_type": "power",
+    "rarity": "rare",
+    "name_ko": "사신의 형상",
+    "name_en": "Reaper Form",
+    "cost": "3",
+    "effect_raw": "공격 카드로 피해를 줄 때마다, 그와 동일한 만큼의 종말을 부여합니다.",
+    "upgrade_raw": "보존 추가"
+  },
+  {
+    "section": "ancient",
+    "card_type": "attack",
+    "rarity": "ancient",
+    "name_ko": "파수꾼",
+    "name_en": "Protector",
+    "cost": "1",
+    "effect_raw": "골골이가 피해를 10 줍니다. 골골이의 최대 체력만큼 피해량이 증가합니다.",
+    "upgrade_raw": "비용 1 -> 0, 피해 10 -> 15"
+  },
+  {
+    "section": "ancient",
+    "card_type": "skill",
+    "rarity": "ancient",
+    "name_ko": "금지된 마도서",
+    "name_en": "Forbidden Grimoire",
+    "cost": "2",
+    "effect_raw": "전투 종료 시, 덱에서 카드를 1장 제거합니다. 영구.",
+    "upgrade_raw": "비용 2 -> 1"
+  },
+  {
+    "section": "multiplayer",
+    "card_type": "skill",
+    "rarity": "advanced",
+    "name_ko": "해골 군단",
+    "name_en": "Legion of Bone",
+    "cost": "2",
+    "effect_raw": "모든 플레이어가 소환 6. 소멸.",
+    "upgrade_raw": "소환 6 -> 8"
+  },
+  {
+    "section": "multiplayer",
+    "card_type": "skill",
+    "rarity": "rare",
+    "name_ko": "경계 엿보기",
+    "name_en": "Glimpse Beyond",
+    "cost": "1",
+    "effect_raw": "모든 플레이어의 뽑을 카드 더미에 영혼을 3장 섞어 넣습니다. 소멸.",
+    "upgrade_raw": "영혼 3장 -> 4장"
+  }
+]
