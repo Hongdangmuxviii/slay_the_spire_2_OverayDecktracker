@@ -4,7 +4,6 @@ const path = require("path");
 const rewardFile = path.join(
   __dirname,
   "..",
-  "..",
   "mods",
   "RewardBridgeExport.current.json"
 );

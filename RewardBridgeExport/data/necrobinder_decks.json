@@ -1,112 +1,360 @@
-[
+﻿[
   {
-    "id": "doom",
-    "label": "\uc885\ub9d0",
-    "color": "#7c3aed",
-    "description": "\uc885\ub9d0 \ub204\uc801\uacfc \ud2b8\ub9ac\uac70 \uc2dc\ub108\uc9c0 \uc704\uc8fc",
-    "core": [
-      "CARD.BLIGHT_STRIKE",
-      "CARD.SCOURGE",
-      "CARD.DEATHBRINGER",
-      "CARD.NO_ESCAPE",
-      "CARD.END_OF_DAYS"
-    ],
-    "support": [
-      "CARD.NEGATIVE_PULSE",
-      "CARD.SHROUD",
-      "CARD.COUNTDOWN",
-      "CARD.DEATHS_DOOR",
-      "CARD.SLEIGHT_OF_FLESH",
-      "CARD.REAPER_FORM",
-      "CARD.PUTREFY"
-    ]
-  },
-  {
-    "id": "soul",
-    "label": "\uc601\ud63c",
+    "id": "soul_deck",
+    "label": "영혼 덱",
     "color": "#06b6d4",
-    "description": "\uc601\ud63c \uc0dd\uc131\uacfc \uc21c\ud658, \ucd9c\ubab0 \uc911\uc2ec \ub515",
-    "core": [
-      "CARD.CAPTURE_SPIRIT",
-      "CARD.HAUNT",
-      "CARD.WISP",
-      "CARD.SEVERANCE",
-      "CARD.DREDGE"
+    "description": "영혼 덱 구성 카드 9/13장 매칭",
+    "recommended_relics": [
+      "뼈피리",
+      "장례가면",
+      "색수리용칼"
     ],
-    "support": [
+    "source_cards": [
+      "무덤지기",
+      "장송가",
+      "강탈",
+      "분리",
+      "죽음의행진",
+      "출몰",
+      "연명",
+      "부름",
+      "정신폭주",
+      "전략의천재",
+      "비밀기술",
+      "숨겨진보석",
+      "신성"
+    ],
+    "unmatched_cards": [
+      "전략의천재",
+      "비밀기술",
+      "숨겨진보석",
+      "신성"
+    ],
+    "core": [
       "CARD.GRAVE_WARDEN",
-      "CARD.REAVE",
       "CARD.DIRGE",
-      "CARD.DEVOUR_LIFE",
-      "CARD.CALL_OF_THE_VOID",
+      "CARD.REAVE",
+      "CARD.SEVERANCE",
+      "CARD.DEATH_MARCH",
+      "CARD.HAUNT",
       "CARD.BORROWED_TIME",
-      "CARD.PARSE"
-    ]
-  },
-  {
-    "id": "summon",
-    "label": "\uace8\uace8\uc774",
-    "color": "#22c55e",
-    "description": "\uc18c\ud658\uacfc \uace8\uace8\uc774 \uacf5\uaca9 \uc911\uc2ec \ub515",
-    "core": [
-      "CARD.UNLEASH",
-      "CARD.BODYGUARD",
-      "CARD.POKE",
-      "CARD.RATTLE",
-      "CARD.CALCIFY",
-      "CARD.SQUEEZE"
+      "CARD.INVOKE",
+      "CARD.NEUROSURGE"
     ],
-    "support": [
-      "CARD.FLATTEN",
-      "CARD.SIC_EM",
-      "CARD.HIGH_FIVE",
-      "CARD.SPUR",
-      "CARD.NECRO_MASTERY",
-      "CARD.PROTECTOR"
-    ]
+    "support": []
   },
   {
-    "id": "volatile",
-    "label": "\ud718\ubc1c\uc131",
-    "color": "#f59e0b",
-    "description": "\ud718\ubc1c\uc131 \uc0ac\uc6a9\uacfc \ubcf4\uc0c1 \uce74\ub4dc \uc7ac\ud65c\uc6a9",
+    "id": "doom_deck",
+    "label": "종말덱",
+    "color": "#7c3aed",
+    "description": "종말덱 구성 카드 8/12장 매칭",
+    "recommended_relics": [
+      "상아타일",
+      "큰모자",
+      "책갈피"
+    ],
+    "source_cards": [
+      "카르마분쇄",
+      "도망칠수없다",
+      "징벌",
+      "비관적인맥박",
+      "역병타격",
+      "망각",
+      "사신의형상",
+      "죽음인도자",
+      "수의",
+      "충격파",
+      "염원",
+      "전략의천재"
+    ],
+    "unmatched_cards": [
+      "카르마분쇄",
+      "충격파",
+      "염원",
+      "전략의천재"
+    ],
     "core": [
+      "CARD.NO_ESCAPE",
+      "CARD.SCOURGE",
+      "CARD.NEGATIVE_PULSE",
+      "CARD.BLIGHT_STRIKE",
+      "CARD.OBLIVION",
+      "CARD.REAPER_FORM",
+      "CARD.DEATHBRINGER",
+      "CARD.SHROUD"
+    ],
+    "support": []
+  },
+  {
+    "id": "volatile_deck",
+    "label": "휘발성덱",
+    "color": "#f59e0b",
+    "description": "휘발성덱 구성 카드 10/13장 매칭",
+    "recommended_relics": [
+      "꼬인깔대기",
+      "뼈피리",
+      "색연필"
+    ],
+    "source_cards": [
+      "서류폭풍",
+      "장막의통치자",
+      "모독",
+      "두려움",
+      "반항",
+      "치사성",
+      "끌어내리기",
+      "잿빛유령",
+      "변사의외침",
+      "조각타격",
+      "비상단추",
+      "어둠의족쇄",
+      "전략의천재"
+    ],
+    "unmatched_cards": [
+      "비상단추",
+      "어둠의족쇄",
+      "전략의천재"
+    ],
+    "core": [
+      "CARD.PAGESTORM",
+      "CARD.VEILPIERCER",
       "CARD.DEFILE",
       "CARD.FEAR",
-      "CARD.PAGESTORM",
+      "CARD.DEFY",
+      "CARD.LETHALITY",
       "CARD.PULL_FROM_BELOW",
-      "CARD.BANSHEES_CRY"
-    ],
-    "support": [
-      "CARD.SCULPTING_STRIKE",
-      "CARD.VEILPIERCER",
-      "CARD.ENFEEBLING_TOUCH",
-      "CARD.PARSE",
       "CARD.SPIRIT_OF_ASH",
-      "CARD.SEANCE",
-      "CARD.OBLIVION"
-    ]
+      "CARD.BANSHEES_CRY",
+      "CARD.SCULPTING_STRIKE"
+    ],
+    "support": []
   },
   {
-    "id": "bigmana",
-    "label": "\uace0\ucf54\uc2a4\ud2b8",
-    "color": "#ef4444",
-    "description": "\uc5f0\uba85\uacfc \ubcc0\ud615\uc73c\ub85c \uace0\ucf54\uc2a4\ud2b8\ub97c \uad74\ub9ac\ub294 \ub515",
-    "core": [
-      "CARD.BORROWED_TIME",
-      "CARD.TRANSFIGURE",
-      "CARD.DANSE_MACABRE",
-      "CARD.DIRGE",
-      "CARD.ERADICATE"
+    "id": "skeleton_deck",
+    "label": "골골이덱",
+    "color": "#22c55e",
+    "description": "골골이덱 구성 카드 8/9장 매칭",
+    "recommended_relics": [
+      "네크로맨서의유권",
+      "저주받은열쇠",
+      "마른가지"
     ],
-    "support": [
-      "CARD.BURY",
-      "CARD.BANSHEES_CRY",
-      "CARD.DEMESNE",
+    "source_cards": [
+      "석회화",
+      "장송가",
+      "부수기",
+      "덮쳐!",
+      "덜컥대기",
+      "회수",
+      "뼛조각",
+      "생명삼키기",
+      "경계태세"
+    ],
+    "unmatched_cards": [
+      "부수기"
+    ],
+    "core": [
+      "CARD.CALCIFY",
+      "CARD.DIRGE",
+      "CARD.SIC_EM",
+      "CARD.RATTLE",
+      "CARD.FETCH",
+      "CARD.BONE_SHARDS",
+      "CARD.DEVOUR_LIFE",
+      "CARD.SENTRY_MODE"
+    ],
+    "support": []
+  },
+  {
+    "id": "infinite_exhaust_cycle",
+    "label": "무한소멸순환",
+    "color": "#ef4444",
+    "description": "무한소멸순환 구성 카드 8/8장 매칭",
+    "recommended_relics": [
+      "마른가지",
+      "가론의재",
+      "저주인형"
+    ],
+    "source_cards": [
+      "희생",
+      "혼령포획",
+      "무덤지기",
+      "연명",
+      "내세",
+      "회수",
+      "죽음의행진",
+      "강령의극의"
+    ],
+    "unmatched_cards": [],
+    "core": [
+      "CARD.SACRIFICE",
+      "CARD.CAPTURE_SPIRIT",
+      "CARD.GRAVE_WARDEN",
+      "CARD.BORROWED_TIME",
+      "CARD.AFTERLIFE",
+      "CARD.FETCH",
+      "CARD.DEATH_MARCH",
+      "CARD.NECRO_MASTERY"
+    ],
+    "support": []
+  },
+  {
+    "id": "soul_build",
+    "label": "영혼빌드",
+    "color": "#0ea5e9",
+    "description": "영혼빌드 구성 카드 10/10장 매칭",
+    "recommended_relics": [],
+    "source_cards": [
+      "무덤지기",
+      "장송가",
+      "출몰",
+      "강탈",
+      "분리",
+      "죽음의행진",
+      "연명",
+      "부름",
+      "정신폭주",
+      "분석"
+    ],
+    "unmatched_cards": [],
+    "core": [
+      "CARD.GRAVE_WARDEN",
+      "CARD.DIRGE",
+      "CARD.HAUNT",
+      "CARD.REAVE",
+      "CARD.SEVERANCE",
+      "CARD.DEATH_MARCH",
+      "CARD.BORROWED_TIME",
+      "CARD.INVOKE",
+      "CARD.NEUROSURGE",
+      "CARD.PARSE"
+    ],
+    "support": []
+  },
+  {
+    "id": "maso_skeleton_build",
+    "label": "마조골골이빌드",
+    "color": "#d946ef",
+    "description": "마조골골이빌드 구성 카드 10/14장 매칭",
+    "recommended_relics": [
+      "상아타일",
+      "큰모자",
+      "책갈피"
+    ],
+    "source_cards": [
+      "카르마분쇄",
+      "망각",
+      "도망칠수없다",
+      "징벌",
+      "비관적인맥박",
+      "종말의날",
+      "사신의형상",
+      "죽음인도자",
+      "수의",
+      "부름",
+      "정신폭주",
+      "충격파",
+      "비밀기술",
+      "생산"
+    ],
+    "unmatched_cards": [
+      "카르마분쇄",
+      "충격파",
+      "비밀기술",
+      "생산"
+    ],
+    "core": [
+      "CARD.OBLIVION",
+      "CARD.NO_ESCAPE",
+      "CARD.SCOURGE",
+      "CARD.NEGATIVE_PULSE",
       "CARD.END_OF_DAYS",
-      "CARD.DELAY",
-      "CARD.RIGHT_HAND_HAND",
-      "CARD.LETHALITY"
-    ]
+      "CARD.REAPER_FORM",
+      "CARD.DEATHBRINGER",
+      "CARD.SHROUD",
+      "CARD.INVOKE",
+      "CARD.NEUROSURGE"
+    ],
+    "support": []
+  },
+  {
+    "id": "doom_infinite_deck",
+    "label": "종말무한덱",
+    "color": "#14b8a6",
+    "description": "종말무한덱 구성 카드 10/13장 매칭",
+    "recommended_relics": [
+      "장례가면",
+      "뼈피리",
+      "색수리용칼"
+    ],
+    "source_cards": [
+      "사신의낫",
+      "부름",
+      "장송가",
+      "정신폭주",
+      "무덤지기",
+      "연명",
+      "출몰",
+      "사신의형상",
+      "영혼폭풍",
+      "분석",
+      "비밀기술",
+      "생산",
+      "충격파"
+    ],
+    "unmatched_cards": [
+      "비밀기술",
+      "생산",
+      "충격파"
+    ],
+    "core": [
+      "CARD.THE_SCYTHE",
+      "CARD.INVOKE",
+      "CARD.DIRGE",
+      "CARD.NEUROSURGE",
+      "CARD.GRAVE_WARDEN",
+      "CARD.BORROWED_TIME",
+      "CARD.HAUNT",
+      "CARD.REAPER_FORM",
+      "CARD.SOUL_STORM",
+      "CARD.PARSE"
+    ],
+    "support": []
+  },
+  {
+    "id": "scythe_growth_build",
+    "label": "사신의낫성장빌드",
+    "color": "#f43f5e",
+    "description": "사신의낫성장빌드 구성 카드 10/11장 매칭",
+    "recommended_relics": [],
+    "source_cards": [
+      "장막의통치자",
+      "변형",
+      "서류폭풍",
+      "변사의외침",
+      "조각타격",
+      "잿빛유령",
+      "척결",
+      "연명",
+      "정신폭주",
+      "깨닫기",
+      "강령회"
+    ],
+    "unmatched_cards": [
+      "깨닫기"
+    ],
+    "core": [
+      "CARD.VEILPIERCER",
+      "CARD.TRANSFIGURE",
+      "CARD.PAGESTORM",
+      "CARD.BANSHEES_CRY",
+      "CARD.SCULPTING_STRIKE",
+      "CARD.SPIRIT_OF_ASH",
+      "CARD.ERADICATE",
+      "CARD.BORROWED_TIME",
+      "CARD.NEUROSURGE",
+      "CARD.SEANCE"
+    ],
+    "support": []
   }
 ]

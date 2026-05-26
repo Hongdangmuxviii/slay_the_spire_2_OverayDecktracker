@@ -1,0 +1,14 @@
+﻿RewardBridgeExport/*.log
+RewardBridgeExport/*.pid
+RewardBridgeExport/*.runtime.json
+RewardBridgeExport/*.stdout.log
+RewardBridgeExport/*.stderr.log
+mods/RewardBridgeExport.current.json
+mods/RewardBridgeExport.combat.json
+mods/RewardBridgeExport.log
+build_tmp/bin/
+build_tmp/obj/
+.dotnet/
+.dotnet_home/
+.nuget_packages/
+.appdata/
